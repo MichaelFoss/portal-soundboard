@@ -21,3 +21,7 @@ Desktop.ini
 # Audio files
 /www/audio/*.wav
 /www/audio/*.ogg
+
+# Apache logs
+error_log
+access_log
