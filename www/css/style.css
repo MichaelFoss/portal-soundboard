@@ -1,0 +1,26 @@
+#Clips {
+	width: 50%;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	height: 400px;
+	float: right;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+li {
+	list-style-type: none;
+	margin: 10px 0px;
+}
+
+#Chain button,
+#Clips button {
+	padding: 0px 2px;
+	font-size: 8px;
+	margin: 2px;
+}
